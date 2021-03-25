@@ -24,7 +24,7 @@ while loop==1:
     answer=input()
     if answer=="y":
         try:
-            table.to_csv("XrayMassCoef"+elem+".csv")
+            table.to_csv("XrayMassCoef"+elem+".csv", index=False)
             print("Saved as XrayMassCoef"+elem+".csv")
             loop=0
         except:
