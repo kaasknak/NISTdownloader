@@ -11,4 +11,4 @@ downloadNIST.py is more user friendly while adownloadNIST.py is more suitable fo
 ## adownloadNIST.py
 - Execute "python3 adownloadNIST.py X" / "chmod +x adownloadNIST.py && ./adownloadNIST.py X" where X is the element name.
 - Csv data will be printed to the terminal.
-- Optionally you can pipe the data into a file or pipe it into other programs like sed (example: "python3 adownloadNIST.py Tb > path/to/file.csv"
+- Optionally you can pipe the data into a file or pipe it into other programs like sed (example: "python3 adownloadNIST.py Tb > path/to/file.csv")
